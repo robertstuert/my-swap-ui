@@ -1,6 +1,6 @@
 {
-  "name": "my-swap",
-  "description": "A web app for swap",
+  "name": "@hyperlane-xyz/warp-ui-template",
+  "description": "A web app template for building Hyperlane Warp Route UIs",
   "version": "3.8.1",
   "author": "J M Rossy",
   "dependencies": {
@@ -66,6 +66,15 @@
     "typescript": "^5.3.3",
     "yaml": "^2.3.4",
     "yaml-loader": "^0.8.0"
+  },
+  "homepage": "https://www.hyperlane.xyz",
+  "license": "Apache-2.0",
+  "main": "dist/src/index.js",
+  "packageManager": "yarn@4.0.2",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperlane-xyz/hyperlane-warp-ui-template"
   },
   "scripts": {
     "clean": "rm -rf dist cache .next",
