@@ -1,6 +1,6 @@
 {
-  "name": "@hyperlane-xyz/warp-ui-template",
-  "description": "A web app template for building Hyperlane Warp Route UIs",
+  "name": "my-swap",
+  "description": "A web app for swap",
   "version": "3.8.1",
   "author": "J M Rossy",
   "dependencies": {
